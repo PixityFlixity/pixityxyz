@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: PIXITY.XYZ
+serverDescription: Minecraft Survival Server
+serverIP: pixity.xyz
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/hUatY6kSyK
+discordServerID: 1057339827823054988
+discordChannelID: 1059556163261300777
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
@@ -40,7 +40,7 @@ discordChannelID: 450428756855750666
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
-theme: minima
+theme: Cayman
 # plugins:
 #   - jekyll-feed
 # exclude:
